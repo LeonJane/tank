@@ -1,0 +1,6 @@
+#初始化tank的数量
+initTankAmount=10
+#坦克速度
+tankSpeed=5
+#子弹速度
+bulletSpeed=20
